@@ -17,9 +17,9 @@ Unit Testing sample programme code for learning purpose
 
 ## known errors and soluations(Optional)
 
-- **ERROR**:cppunit path not included or giving error related to that
+- **ERROR**:cppunit path not included or giving error related to that 
 	
-	**Soln**:
-		a) check the installation for cppunit testing framework and MSYS2
-		
+- **Soln**:
+	
+		a) check the installation for cppunit testing framework and MSYS2	
 		b) check system path variables setup
